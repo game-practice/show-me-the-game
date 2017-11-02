@@ -1,4 +1,4 @@
-﻿## 历届LD题目练习册，每天一个小游戏（雾）
+## 历届LD题目练习册，每天一个小游戏（雾）
 
 #### 说明
 
@@ -11,9 +11,6 @@
 
 ---
 
-## Ludum Dare
-
-<br />
 
 **第 0 届：** Indirect interaction ( April 2002 ) 
 
@@ -100,8 +97,3 @@
 **第 39 届：** Running out of Power (July 2017) 
 
 
-## Custom
-
-<br />
-
-**None**
