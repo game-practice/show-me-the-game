@@ -1,14 +1,19 @@
-﻿## 历届LD题目练习册，每天（雾）一个小游戏
+﻿## 历届LD题目练习册，每天一个小游戏（雾）
 
 #### 说明
 
 - 用于头脑风暴，设计练习之用~
 - 本文仅提供主题题目，请勿出现具体源码。
 - 本文根据维基百科[Ludum_Dare](https://en.wikipedia.org/wiki/Ludum_Dare#Results)收集而成，感谢基友@Puppet(blog: http://puppetkant.cn/) 的爬虫
+- 欢迎大家 Pull Request 出其他主题题目
+- 欢迎解答, 并发送 pull request 到 [game-demo](https://github.com/game-practice/game-demo)
 
 
 ---
 
+## Ludum Dare
+
+<br />
 
 **第 0 届：** Indirect interaction ( April 2002 ) 
 
@@ -93,3 +98,10 @@
 **第 38 届：** A Small World (April 2017) 
 
 **第 39 届：** Running out of Power (July 2017) 
+
+
+## Custom
+
+<br />
+
+**None**
